@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+#app {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+#query {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+}
